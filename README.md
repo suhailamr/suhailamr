@@ -1,5 +1,4 @@
-## Welcome to my workspace! 👋🏻 M Suhail Amr
-
+![suhailamr](img/header-suhail.png)
 ##### The Path we choose depends on how long we feel about it
 
 <!--
