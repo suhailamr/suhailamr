@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 I feel energetic to enjoy life, believing that even simple things can spark a fresh start. With a strong passion for technology and creativity, I enjoy combining clean code with thoughtful design to craft meaningful and intuitive web experiences.
 </div>
 
-#### *🎓 Final Year Informatics Engineering Student Universitas Putera Batam*
-
 *👉🏻 I'm currently learning & Exploring*
 
 ## Code 💻
